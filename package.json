@@ -12,7 +12,8 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "author": "",
+  "homepage": "https://strike2wce.github.io/comp2156",
+  "author": "James Ocholik",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.1",
