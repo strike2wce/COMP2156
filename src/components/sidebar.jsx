@@ -5,7 +5,6 @@ export default class Sidebar extends Component {
     return (
       <div>
         <div>
-          // eslint-disable-next-line jsx-a11y/role-supports-aria-props
           <nav
             href="#navbar"
             className="js-colorlib-nav-toggle colorlib-nav-toggle"
